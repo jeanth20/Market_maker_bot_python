@@ -49,6 +49,11 @@ python -m venv venv
 python main.py
 ```
 
+▶️ **Set RCP**
+```
+https://api.mainnet-beta.solana.com
+```
+
 # 🗺️ CLI Overview
 ```
 📟 CLI
