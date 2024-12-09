@@ -2,10 +2,8 @@
 Jupiter Python CLI added market maker function
 
 
-### Use this RCP
+### Use for RCP
 
 ````
-```
 https://api.mainnet-beta.solana.com
-```
 ````
