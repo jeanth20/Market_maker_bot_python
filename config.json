@@ -1,0 +1,9 @@
+{
+    "FIRST_LOGIN": false,
+    "LAST_WALLET_SELECTED": "2",
+    "COLLECT_FEES": false,
+    "RPC_URL": "https://api.mainnet-beta.solana.com",
+    "DISCORD_WEBHOOK": "",
+    "TELEGRAM_BOT_TOKEN": "",
+    "TELEGRAM_CHAT_ID": 0
+}
