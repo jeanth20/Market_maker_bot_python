@@ -1,6 +1,6 @@
 {
-    "FIRST_LOGIN": false,
-    "LAST_WALLET_SELECTED": "2",
+    "FIRST_LOGIN": True,
+    "LAST_WALLET_SELECTED": "1",
     "COLLECT_FEES": false,
     "RPC_URL": "https://api.mainnet-beta.solana.com",
     "DISCORD_WEBHOOK": "",
